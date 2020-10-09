@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 50c63d30d79a6fe4e88745ff5330712d, type: 3}
+    totalSpriteSurfaceArea: 2620672
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 63f8d5904e0abb24c950a7c714a779e3, type: 3}
+  - {fileID: 21300000, guid: d2233bb190c0b364ca8fd53210df7242, type: 3}
+  - {fileID: 21300000, guid: 4df0bfe119d7332458fb9c8f59b4cfb0, type: 3}
+  - {fileID: 21300000, guid: 0f5b6d02506aa3e4588bac6ec0b510a7, type: 3}
+  - {fileID: 21300000, guid: 81c4f2b214067c047a6e010783db5cca, type: 3}
+  - {fileID: 21300000, guid: 95e36d637b9500f408e27cb2f05367cc, type: 3}
+  - {fileID: 21300000, guid: 5c5811b37a0f76b4384025813439a824, type: 3}
+  - {fileID: 21300000, guid: d104bc96d6bd5864bb753ade5ee9c0a4, type: 3}
+  - {fileID: 21300000, guid: 3b942d07a4090ae40b9e0757e3ef3250, type: 3}
+  - {fileID: 21300000, guid: ca061487a3dbf0a49b5cf9142cc80d45, type: 3}
+  - {fileID: 21300000, guid: 70942c9923037674f8485d5c6aeca75c, type: 3}
+  - {fileID: 21300000, guid: 3047961a0eef2214fad7ec2b2ab53b45, type: 3}
+  - {fileID: 21300000, guid: 5b4c55cb7b6e2e24a84d4321a1600a5b, type: 3}
+  - {fileID: 21300000, guid: 7b44305c3ce8f5e49b78c14540875593, type: 3}
+  - {fileID: 21300000, guid: 664ea27d3a61a2a4bac3f1bedb69eb36, type: 3}
+  - {fileID: 21300000, guid: e3aae78dd2ca90f4a990f3840782746d, type: 3}
+  - {fileID: 21300000, guid: 5b3449de93ed9e249b81cbcc5b45e896, type: 3}
+  - {fileID: 21300000, guid: ac6a677fd6ec66f4f86e18286b5fdb02, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "Sk\u0131pIconCartoon-9"
+  - Blue
+  - GemWHITEBLACKStroke-8
+  - "Varl\u0131k 9@3x-8"
+  - FinishLne
+  - Bar-8
+  - NextIconCartoon-9
+  - MarketCarIconKalin-8_1-8
+  - GemBar-8
+  - GemStroke30-8
+  - NewSettingsIcon-8
+  - TapToStart-8
+  - Asset 3
+  - SuccessGreen-8
+  - Asset 2
+  - PauseButton-8
+  - RetryIconCartoon-9
+  - GemSon-8
+  m_Tag: UI
+  m_IsVariant: 0

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: de61450394591bd479e22514b325cc9e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baloo Bhai 2
+  fontNames:
+  - Baloo Bhai 2
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 889ebb624fc78c84da20eb007e9519ea, type: 3}
+  - {fileID: 12800000, guid: d448d073689dc9d4bbc60c433a6d1894, type: 3}
+  - {fileID: 12800000, guid: 23db7ca4fb6114c488f1aa280dd5449a, type: 3}
+  - {fileID: 12800000, guid: 2afd0116a9540fe43a1ddfa4cf2a0f6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
